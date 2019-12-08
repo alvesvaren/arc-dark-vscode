@@ -1,7 +1,6 @@
-# README
+# Arc Dark
 
-## Arc Dark
+A port of The Arc Dark Theme made for Visual Studio Code
 
-The Arc Dark Theme for Visual Studio Code
-
+![screenshot](https://i.imgur.com/lulFf4C.png)
 **Enjoy!**
