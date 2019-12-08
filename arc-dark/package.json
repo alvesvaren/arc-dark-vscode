@@ -3,7 +3,7 @@
     "displayName": "Arc Dark for Visual Studio Code",
     "publisher": "alvesvaren",
     "description": "A port of the Arc Dark Theme for Visual Studio Code",
-    "version": "0.1",
+    "version": "0.1.0",
     "repository": {
         "url": "https://github.com/alvesvaren/arc-dark-vscode"
     },
