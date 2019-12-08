@@ -1,0 +1,25 @@
+{
+    "name": "arc-dark",
+    "displayName": "arc-dark",
+    "publisher": "alvesvaren",
+    "description": "Arc Dark Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "repository": {
+        "url": "https://github.com/alvesvaren/arc-dark-vscode"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arc Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arc Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
